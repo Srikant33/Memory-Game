@@ -25,6 +25,8 @@ The following **required** functionality is complete:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 Win - https://github.com/Srikant33/Memory-Game/blob/main/Win.gif
 Loose - https://github.com/Srikant33/Memory-Game/blob/main/Lose.gif
+![Win](https://user-images.githubusercontent.com/96463545/161367249-c3832a16-c4ed-44bd-9624-8fe769168782.gif)
+![Lose](https://user-images.githubusercontent.com/96463545/161367250-6675e60b-9334-41b9-9f41-3bad42964f39.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
