@@ -23,8 +23,8 @@ The following **required** functionality is complete:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-Win - 
-Loose - 
+Win - https://github.com/Srikant33/Memory-Game/blob/main/Win.gif
+Loose - https://github.com/Srikant33/Memory-Game/blob/main/Lose.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
